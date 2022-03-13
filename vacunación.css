@@ -1245,6 +1245,7 @@ footer{
     font-size: 40px;
     top: 80px;
     left: 235px;
+    width: 250px;
 }
 
 .parrafoPie{
@@ -1263,6 +1264,7 @@ footer{
     font-size: 35px;
     top: -145px;
     left: 1385px;
+    width: 250px;
 }
 
 .aboutUs{
@@ -1271,6 +1273,7 @@ footer{
     font-size: 25px;
     top: -150px;
     left: 1385px;
+    width: 250px;
 }
 
 .features{
@@ -1279,6 +1282,7 @@ footer{
     font-size: 25px;
     top: -145px;
     left: 1385px;
+    width: 250px;
 }
 
 .newsBlog{
@@ -1287,6 +1291,7 @@ footer{
     font-size: 25px;
     top: -140px;
     left: 1385px;
+    width: 250px;
 }
 
 .company{
@@ -1296,6 +1301,7 @@ footer{
     font-size: 35px;
     top: -431px;
     left: 1725px;
+    width: 250px;
 }
 
 .howWeWork{
@@ -1304,6 +1310,7 @@ footer{
     font-size: 25px;
     top: -436px;
     left: 1725px;
+    width: 250px;
 }
 
 .capital{
@@ -1312,6 +1319,7 @@ footer{
     font-size: 25px;
     top: -431px;
     left: 1725px;
+    width: 250px;
 }
 
 .security{
@@ -1320,6 +1328,7 @@ footer{
     font-size: 25px;
     top: -426px;
     left: 1725px;
+    width: 250px;
 }
 
 .support{
@@ -1329,6 +1338,7 @@ footer{
     font-size: 35px;
     top: -718px;
     left: 2090px;
+    width: 250px;
 }
 
 .faqs{
@@ -1337,6 +1347,7 @@ footer{
     font-size: 25px;
     top: -722px;
     left: 2090px;
+    width: 250px;
 }
 
 .supportCenter{
@@ -1345,6 +1356,7 @@ footer{
     font-size: 25px;
     top: -718px;
     left: 2090px;
+    width: 250px;
 }
 
 .contactUs{
@@ -1353,6 +1365,7 @@ footer{
     font-size: 25px;
     top: -713px;
     left: 2090px;
+    width: 250px;
 }
 
 .rights{
@@ -1370,7 +1383,7 @@ footer{
     font-size: 20px;
     top: -699px;
     left: 1785px;
-    width: 350px;
+    width: 250px;
 }
 
 .privacy{
@@ -1379,5 +1392,5 @@ footer{
     font-size: 20px;
     top: -751px;
     left: 2112px;
-    width: 350px;
+    width: 200px;
 }
